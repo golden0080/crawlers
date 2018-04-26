@@ -1,0 +1,6 @@
+craigs/data
+
+**/__pycache__
+
+**/*.jl
+**/*.json
